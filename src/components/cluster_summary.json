@@ -1,0 +1,1220 @@
+[
+  {
+    "clusterId": 0,
+    "position": 2.0761271895454545,
+    "clusterSize": 110,
+    "clusterName": "Taxe Tobin de 0,5% sur les transactions financi\u00e8res."
+  },
+  {
+    "clusterId": 1,
+    "position": 9.095947368475992,
+    "clusterSize": 479,
+    "clusterName": "Instauration d'une flat tax ou suppression."
+  },
+  {
+    "clusterId": 2,
+    "position": 4.585533077366412,
+    "clusterSize": 262,
+    "clusterName": "Supprimer la redevance audiovisuelle."
+  },
+  {
+    "clusterId": 3,
+    "position": 3.817561259650349,
+    "clusterSize": 143,
+    "clusterName": "Imp\u00f4t sur les robots et charges sociales."
+  },
+  {
+    "clusterId": 4,
+    "position": 2.536533424372624,
+    "clusterSize": 263,
+    "clusterName": "Taxe sur les produits de luxe et les \u0153uvres d'art."
+  },
+  {
+    "clusterId": 5,
+    "position": 19.799768248063494,
+    "clusterSize": 315,
+    "clusterName": "Supprimer les niches fiscales pour les riches."
+  },
+  {
+    "clusterId": 6,
+    "position": 20.68284702581879,
+    "clusterSize": 6876,
+    "clusterName": "Suppression des niches fiscales."
+  },
+  {
+    "clusterId": 7,
+    "position": 9.087177803333336,
+    "clusterSize": 150,
+    "clusterName": "R\u00e9former ou supprimer le 'verrou' de Bercy."
+  },
+  {
+    "clusterId": 8,
+    "position": 19.914869415972905,
+    "clusterSize": 2657,
+    "clusterName": "Un seul imp\u00f4t progressif fusionnant IRPP et CSG."
+  },
+  {
+    "clusterId": 9,
+    "position": 19.36394827980392,
+    "clusterSize": 102,
+    "clusterName": "Identique taux de C.S.G. Pour tous."
+  },
+  {
+    "clusterId": 10,
+    "position": 12.67531449,
+    "clusterSize": 127,
+    "clusterName": "limiter la fiscalit\u00e9 confiscatoire"
+  },
+  {
+    "clusterId": 11,
+    "position": 16.934086387363994,
+    "clusterSize": 2022,
+    "clusterName": "Imp\u00f4t sur le revenu \u00e0 partir du 1er euro."
+  },
+  {
+    "clusterId": 12,
+    "position": 15.747827231652174,
+    "clusterSize": 460,
+    "clusterName": "Imp\u00f4t symbolique pour tous."
+  },
+  {
+    "clusterId": 13,
+    "position": 17.014781301974192,
+    "clusterSize": 775,
+    "clusterName": "Harmonisation fiscale europ\u00e9enne"
+  },
+  {
+    "clusterId": 14,
+    "position": 17.530674540974026,
+    "clusterSize": 154,
+    "clusterName": "Lutter contre le dumping fiscal et social en Europe."
+  },
+  {
+    "clusterId": 15,
+    "position": 9.966515501247445,
+    "clusterSize": 489,
+    "clusterName": "Imp\u00f4t \u00e0 la source g\u00e9n\u00e9ralis\u00e9."
+  },
+  {
+    "clusterId": 16,
+    "position": 13.650912427769232,
+    "clusterSize": 260,
+    "clusterName": "Simplifier et harmoniser les pr\u00e9l\u00e8vements \u00e0 un taux unique."
+  },
+  {
+    "clusterId": 17,
+    "position": 11.02786116484237,
+    "clusterSize": 793,
+    "clusterName": "R\u00e9duction ou suppression du CICE pour certains."
+  },
+  {
+    "clusterId": 18,
+    "position": 8.118184210952382,
+    "clusterSize": 357,
+    "clusterName": "R\u00e9tablir l'ISF."
+  },
+  {
+    "clusterId": 19,
+    "position": 7.234857601218191,
+    "clusterSize": 4244,
+    "clusterName": "R\u00e9tablir l'ISF pour les grosses fortunes."
+  },
+  {
+    "clusterId": 20,
+    "position": 6.909182309459459,
+    "clusterSize": 148,
+    "clusterName": "R\u00e9int\u00e9gration des autoroutes et nationalisation des soci\u00e9t\u00e9s d'autoroute."
+  },
+  {
+    "clusterId": 21,
+    "position": 1.221700466875,
+    "clusterSize": 128,
+    "clusterName": "Surtaxe sur tabac et alcool, TVA sur luxe et risques."
+  },
+  {
+    "clusterId": 22,
+    "position": 3.317022203601962,
+    "clusterSize": 1427,
+    "clusterName": "Taxe exponentielle sur les produits de luxe."
+  },
+  {
+    "clusterId": 23,
+    "position": 2.9513584665665724,
+    "clusterSize": 1765,
+    "clusterName": "Augmenter la taxation des successions."
+  },
+  {
+    "clusterId": 24,
+    "position": 4.719674656,
+    "clusterSize": 115,
+    "clusterName": "TVA \u00e0 5% sur les produits de premi\u00e8re n\u00e9cessit\u00e9."
+  },
+  {
+    "clusterId": 25,
+    "position": 5.406319928500914,
+    "clusterSize": 547,
+    "clusterName": "TVA protectionniste pour les produits fran\u00e7ais."
+  },
+  {
+    "clusterId": 26,
+    "position": 12.883977141860464,
+    "clusterSize": 172,
+    "clusterName": "Contribution symbolique obligatoire pour tous"
+  },
+  {
+    "clusterId": 27,
+    "position": 4.888979506047228,
+    "clusterSize": 974,
+    "clusterName": "Taxe sur les luxes de transport."
+  },
+  {
+    "clusterId": 28,
+    "position": 3.898255012242798,
+    "clusterSize": 486,
+    "clusterName": "R\u00e9duire les imp\u00f4ts sur l'\u00e9nergie et les produits essentiels."
+  },
+  {
+    "clusterId": 29,
+    "position": 10.063445325152284,
+    "clusterSize": 394,
+    "clusterName": "Une \u00e9conomie plus \u00e9cologique et durable."
+  },
+  {
+    "clusterId": 30,
+    "position": 5.654799267790304,
+    "clusterSize": 887,
+    "clusterName": "TVA \u00e9cologique et polluante."
+  },
+  {
+    "clusterId": 31,
+    "position": 5.170210043229399,
+    "clusterSize": 449,
+    "clusterName": "Imp\u00f4t sur les non-necessaires, favoriser les essentiels."
+  },
+  {
+    "clusterId": 32,
+    "position": 3.8358580754565104,
+    "clusterSize": 1851,
+    "clusterName": "Baisse de la TVA sur les produits de premi\u00e8re n\u00e9cessit\u00e9."
+  },
+  {
+    "clusterId": 33,
+    "position": 4.909564554387297,
+    "clusterSize": 2897,
+    "clusterName": "R\u00e9forme de la TVA."
+  },
+  {
+    "clusterId": 34,
+    "position": 8.639581606239998,
+    "clusterSize": 250,
+    "clusterName": "Obligez la Cour des Comptes \u00e0 agir."
+  },
+  {
+    "clusterId": 35,
+    "position": 9.457297826754386,
+    "clusterSize": 114,
+    "clusterName": "Promouvoir la consommation responsable."
+  },
+  {
+    "clusterId": 36,
+    "position": 8.963614185405406,
+    "clusterSize": 296,
+    "clusterName": "R\u00e9guler les prix essentiels et faire baisser les autres."
+  },
+  {
+    "clusterId": 37,
+    "position": 13.36582424928,
+    "clusterSize": 125,
+    "clusterName": "Suppression des avantages fiscaux des journalistes."
+  },
+  {
+    "clusterId": 38,
+    "position": 18.78561685293233,
+    "clusterSize": 133,
+    "clusterName": "Assiette plus large pour tous les citoyens."
+  },
+  {
+    "clusterId": 39,
+    "position": 9.392599234159292,
+    "clusterSize": 565,
+    "clusterName": "R\u00e9former la fiscalit\u00e9 locale."
+  },
+  {
+    "clusterId": 40,
+    "position": 6.193318324308943,
+    "clusterSize": 123,
+    "clusterName": "Taxer les activit\u00e9s num\u00e9riques."
+  },
+  {
+    "clusterId": 41,
+    "position": 5.759408337095909,
+    "clusterSize": 1491,
+    "clusterName": "Taxer les GAFA de fa\u00e7on identique."
+  },
+  {
+    "clusterId": 42,
+    "position": 14.71396464251678,
+    "clusterSize": 298,
+    "clusterName": "Lutter contre le travail dissimul\u00e9."
+  },
+  {
+    "clusterId": 43,
+    "position": 11.96688488480392,
+    "clusterSize": 102,
+    "clusterName": "Imp\u00f4t progressif sur les gains."
+  },
+  {
+    "clusterId": 44,
+    "position": 14.428049869918366,
+    "clusterSize": 245,
+    "clusterName": "R\u00e9forme de l'imposition avec plafonds et seuils."
+  },
+  {
+    "clusterId": 45,
+    "position": 12.822786759797102,
+    "clusterSize": 345,
+    "clusterName": "Contribution progressive et proportionnelle aux revenus."
+  },
+  {
+    "clusterId": 46,
+    "position": 11.604801288114036,
+    "clusterSize": 1140,
+    "clusterName": "Imp\u00f4t progressif."
+  },
+  {
+    "clusterId": 47,
+    "position": 7.104284228859061,
+    "clusterSize": 298,
+    "clusterName": "Abroger les d\u00e9ductions fiscales abusives."
+  },
+  {
+    "clusterId": 48,
+    "position": 5.850313982798655,
+    "clusterSize": 3566,
+    "clusterName": "R\u00e9forme de la fiscalit\u00e9 immobili\u00e8re."
+  },
+  {
+    "clusterId": 49,
+    "position": 12.090875026216215,
+    "clusterSize": 148,
+    "clusterName": "D\u00e9claration unique de tous les revenus."
+  },
+  {
+    "clusterId": 50,
+    "position": 11.95837685349537,
+    "clusterSize": 432,
+    "clusterName": "Moins taxer le travail."
+  },
+  {
+    "clusterId": 51,
+    "position": 15.844551459866668,
+    "clusterSize": 600,
+    "clusterName": "cr\u00e9er une tranche d'imp\u00f4ts suppl\u00e9mentaire pour les hauts revenus"
+  },
+  {
+    "clusterId": 52,
+    "position": 14.14434484088481,
+    "clusterSize": 599,
+    "clusterName": "Augmenter l'imp\u00f4t sur les hauts revenus."
+  },
+  {
+    "clusterId": 53,
+    "position": 16.9908850125,
+    "clusterSize": 136,
+    "clusterName": "R\u00e9tablissement des 14 tranches d'imposition progressives."
+  },
+  {
+    "clusterId": 54,
+    "position": 15.874546644657002,
+    "clusterSize": 2828,
+    "clusterName": "Nouveau syst\u00e8me fiscal avec tranches et taux vari\u00e9s."
+  },
+  {
+    "clusterId": 55,
+    "position": 13.650290574202335,
+    "clusterSize": 257,
+    "clusterName": "La n\u00e9cessit\u00e9 de la proportionnalit\u00e9."
+  },
+  {
+    "clusterId": 56,
+    "position": 13.878425737184465,
+    "clusterSize": 103,
+    "clusterName": "Formule de calcul transparente et stable."
+  },
+  {
+    "clusterId": 57,
+    "position": 14.56268329043178,
+    "clusterSize": 579,
+    "clusterName": "Adaptation harmonis\u00e9e des taux."
+  },
+  {
+    "clusterId": 58,
+    "position": 14.391276513225806,
+    "clusterSize": 279,
+    "clusterName": "Instaurer des plafonds de redistribution pour les hauts revenus."
+  },
+  {
+    "clusterId": 59,
+    "position": 15.178135807041564,
+    "clusterSize": 409,
+    "clusterName": "Simplifier les seuils ou \u00e9viter leurs effets."
+  },
+  {
+    "clusterId": 60,
+    "position": 14.788096517,
+    "clusterSize": 150,
+    "clusterName": "\u00c9chelonnage \u00e9quitable avec un seul palier suppl\u00e9mentaire."
+  },
+  {
+    "clusterId": 61,
+    "position": 15.637448537846,
+    "clusterSize": 1987,
+    "clusterName": "R\u00e9former l'imposition par tranches."
+  },
+  {
+    "clusterId": 62,
+    "position": 14.284664978149848,
+    "clusterSize": 654,
+    "clusterName": "Un syst\u00e8me plus progressif."
+  },
+  {
+    "clusterId": 63,
+    "position": 14.497737312546818,
+    "clusterSize": 267,
+    "clusterName": "Bar\u00e8me progressif \u00e9quitable."
+  },
+  {
+    "clusterId": 64,
+    "position": 12.715894312983872,
+    "clusterSize": 124,
+    "clusterName": "Imp\u00f4t progressif en fonction des revenus."
+  },
+  {
+    "clusterId": 65,
+    "position": 13.096971091092591,
+    "clusterSize": 540,
+    "clusterName": "Imp\u00f4t progressif sur tous les revenus."
+  },
+  {
+    "clusterId": 66,
+    "position": 11.957217088076924,
+    "clusterSize": 104,
+    "clusterName": "Un revenu suffisant pour vivre dignement."
+  },
+  {
+    "clusterId": 67,
+    "position": 14.27688847954918,
+    "clusterSize": 244,
+    "clusterName": "Cr\u00e9er un revenu de base pour tous."
+  },
+  {
+    "clusterId": 68,
+    "position": 13.346697403557693,
+    "clusterSize": 104,
+    "clusterName": "R\u00e9duire les indemnit\u00e9s et les avantages sociaux."
+  },
+  {
+    "clusterId": 69,
+    "position": 13.783688611372549,
+    "clusterSize": 102,
+    "clusterName": "Fin des r\u00e9gimes sp\u00e9ciaux."
+  },
+  {
+    "clusterId": 70,
+    "position": 13.478896178659092,
+    "clusterSize": 440,
+    "clusterName": "R\u00e9duction des privil\u00e8ges et r\u00e9mun\u00e9rations excessifs."
+  },
+  {
+    "clusterId": 71,
+    "position": 14.408751014525548,
+    "clusterSize": 274,
+    "clusterName": "instaurer un imp\u00f4t universel"
+  },
+  {
+    "clusterId": 72,
+    "position": 14.222559063421052,
+    "clusterSize": 114,
+    "clusterName": "100 milliards d'euros d'\u00e9vasion fiscale annuelle."
+  },
+  {
+    "clusterId": 73,
+    "position": 17.19619803555102,
+    "clusterSize": 245,
+    "clusterName": "Am\u00e9liorer le pouvoir d'achat des Fran\u00e7ais."
+  },
+  {
+    "clusterId": 74,
+    "position": 10.43830654762004,
+    "clusterSize": 479,
+    "clusterName": "Europe harmonis\u00e9e vers la moyenne allemande."
+  },
+  {
+    "clusterId": 75,
+    "position": 10.56486038047619,
+    "clusterSize": 105,
+    "clusterName": "Adopter le mod\u00e8le nordique."
+  },
+  {
+    "clusterId": 76,
+    "position": 18.642909050240963,
+    "clusterSize": 166,
+    "clusterName": "Imp\u00f4t sur la nationalit\u00e9."
+  },
+  {
+    "clusterId": 77,
+    "position": 12.65812863830986,
+    "clusterSize": 142,
+    "clusterName": "Meilleure r\u00e9partition plus \u00e9quitable."
+  },
+  {
+    "clusterId": 78,
+    "position": 12.80739929002417,
+    "clusterSize": 1655,
+    "clusterName": "Principe d'\u00e9galit\u00e9 et justice sociale."
+  },
+  {
+    "clusterId": 79,
+    "position": 14.053395201743118,
+    "clusterSize": 436,
+    "clusterName": "\u00c9largir l'assiette fiscale du revenu."
+  },
+  {
+    "clusterId": 80,
+    "position": 14.945394193770491,
+    "clusterSize": 305,
+    "clusterName": "L'imp\u00f4t sur le revenu pour tous."
+  },
+  {
+    "clusterId": 81,
+    "position": 17.180333787376057,
+    "clusterSize": 827,
+    "clusterName": "All\u00e9ger les imp\u00f4ts sur les classes moyennes."
+  },
+  {
+    "clusterId": 82,
+    "position": 16.453319571491033,
+    "clusterSize": 892,
+    "clusterName": "Prot\u00e9ger et soulager la classe moyenne."
+  },
+  {
+    "clusterId": 83,
+    "position": 13.94046806894737,
+    "clusterSize": 114,
+    "clusterName": "R\u00e9forme des paliers d'imposition plus progressifs."
+  },
+  {
+    "clusterId": 84,
+    "position": 15.069149282517278,
+    "clusterSize": 3762,
+    "clusterName": "Un imp\u00f4t plus progressif avec plus de tranches."
+  },
+  {
+    "clusterId": 85,
+    "position": 11.01548558392473,
+    "clusterSize": 186,
+    "clusterName": "La fin de la gratuit\u00e9 illusoire."
+  },
+  {
+    "clusterId": 86,
+    "position": 14.049637169570312,
+    "clusterSize": 256,
+    "clusterName": "Fin du quotient familial."
+  },
+  {
+    "clusterId": 87,
+    "position": 10.721471029649123,
+    "clusterSize": 114,
+    "clusterName": "Cr\u00e9ation de tranches d'imp\u00f4t suppl\u00e9mentaires pour les tr\u00e8s riches."
+  },
+  {
+    "clusterId": 88,
+    "position": 10.285093946095618,
+    "clusterSize": 251,
+    "clusterName": "R\u00e9forme des aides et subventions."
+  },
+  {
+    "clusterId": 89,
+    "position": 10.015272147266188,
+    "clusterSize": 139,
+    "clusterName": "Encourager le m\u00e9c\u00e9nat et l'exon\u00e9ration fiscale des dons."
+  },
+  {
+    "clusterId": 90,
+    "position": 12.671615520297872,
+    "clusterSize": 235,
+    "clusterName": "Int\u00e9gration des aides sociales dans les revenus."
+  },
+  {
+    "clusterId": 91,
+    "position": 5.098464110152672,
+    "clusterSize": 131,
+    "clusterName": "R\u00e9int\u00e9grer la demi-part pour les veuves et veufs."
+  },
+  {
+    "clusterId": 92,
+    "position": 15.498096300995671,
+    "clusterSize": 231,
+    "clusterName": "Plus de tranches progressives pour l'IR et l'IRPP."
+  },
+  {
+    "clusterId": 93,
+    "position": 12.648248081628616,
+    "clusterSize": 657,
+    "clusterName": "Redistribution des richesses plus juste."
+  },
+  {
+    "clusterId": 94,
+    "position": 8.206162313539823,
+    "clusterSize": 113,
+    "clusterName": "Arr\u00eat de la privatisation non patriotique, renationalisation et abolition de la propri\u00e9t\u00e9 sur les ressources naturelles."
+  },
+  {
+    "clusterId": 95,
+    "position": 12.156175230097087,
+    "clusterSize": 103,
+    "clusterName": "Baisse g\u00e9n\u00e9ralis\u00e9e des co\u00fbts."
+  },
+  {
+    "clusterId": 96,
+    "position": 11.845034050787405,
+    "clusterSize": 127,
+    "clusterName": "Fin de l'assistantat."
+  },
+  {
+    "clusterId": 97,
+    "position": 9.416566915148517,
+    "clusterSize": 101,
+    "clusterName": "Permafinance et circuits courts pour les producteurs locaux."
+  },
+  {
+    "clusterId": 98,
+    "position": 12.264022353176385,
+    "clusterSize": 1338,
+    "clusterName": "R\u00e9forme des aides sociales."
+  },
+  {
+    "clusterId": 99,
+    "position": 14.23242102963816,
+    "clusterSize": 608,
+    "clusterName": "Fiscalit\u00e9 \u00e9quitable pour les c\u00e9libataires et les familles monoparentales."
+  },
+  {
+    "clusterId": 100,
+    "position": 13.2183432726799,
+    "clusterSize": 403,
+    "clusterName": "Limite de 3 enfants pour certaines aides familiales."
+  },
+  {
+    "clusterId": 101,
+    "position": 12.771559103608888,
+    "clusterSize": 1125,
+    "clusterName": "Fiscalisation int\u00e9grale des revenus et des aides sociales."
+  },
+  {
+    "clusterId": 102,
+    "position": 7.515971784770643,
+    "clusterSize": 1090,
+    "clusterName": "Lutter contre la fraude et am\u00e9liorer le contr\u00f4le."
+  },
+  {
+    "clusterId": 103,
+    "position": 14.211939314537814,
+    "clusterSize": 119,
+    "clusterName": "Augmenter la progressivit\u00e9 de l'IRPP."
+  },
+  {
+    "clusterId": 104,
+    "position": 7.551176397142858,
+    "clusterSize": 168,
+    "clusterName": "Amendes index\u00e9es sur le revenu."
+  },
+  {
+    "clusterId": 105,
+    "position": 8.5228688653886,
+    "clusterSize": 386,
+    "clusterName": "Sanctions s\u00e9v\u00e8res et peines planch\u00e8res."
+  },
+  {
+    "clusterId": 106,
+    "position": 13.798354702243902,
+    "clusterSize": 205,
+    "clusterName": "R\u00e9viser le bar\u00e8me progressif d'imposition."
+  },
+  {
+    "clusterId": 107,
+    "position": 13.132063819458484,
+    "clusterSize": 1939,
+    "clusterName": "Imp\u00f4t plus progressif."
+  },
+  {
+    "clusterId": 108,
+    "position": 8.179458348661017,
+    "clusterSize": 590,
+    "clusterName": "Favoriser l'investissement en France et les riches."
+  },
+  {
+    "clusterId": 109,
+    "position": 7.882933628194726,
+    "clusterSize": 493,
+    "clusterName": "Fiscalit\u00e9 favorable aux investissements en PME/PMI/ETI fran\u00e7aises."
+  },
+  {
+    "clusterId": 110,
+    "position": 11.526445357540984,
+    "clusterSize": 122,
+    "clusterName": "Aides \u00e0 l'\u00e9ducation."
+  },
+  {
+    "clusterId": 111,
+    "position": 11.635166117558386,
+    "clusterSize": 471,
+    "clusterName": "Lutter contre les \u00e9vasions fiscales."
+  },
+  {
+    "clusterId": 112,
+    "position": 7.440441596562501,
+    "clusterSize": 160,
+    "clusterName": "Obligation de partager les b\u00e9n\u00e9fices."
+  },
+  {
+    "clusterId": 113,
+    "position": 6.358689026727273,
+    "clusterSize": 990,
+    "clusterName": "Fiscalit\u00e9 des dividendes et des actionnaires."
+  },
+  {
+    "clusterId": 114,
+    "position": 13.12894478763889,
+    "clusterSize": 144,
+    "clusterName": "Aides aux faibles revenus"
+  },
+  {
+    "clusterId": 115,
+    "position": 4.928794675308724,
+    "clusterSize": 1490,
+    "clusterName": "Taxe sur transactions financi\u00e8res largement \u00e9tendue."
+  },
+  {
+    "clusterId": 116,
+    "position": 10.242034305847458,
+    "clusterSize": 118,
+    "clusterName": "Arr\u00eat ou suppression d'\u00e9l\u00e9ments inefficaces."
+  },
+  {
+    "clusterId": 117,
+    "position": 4.498859864435797,
+    "clusterSize": 771,
+    "clusterName": "Am\u00e9liorer la taxation des revenus du capital et les patrimoines."
+  },
+  {
+    "clusterId": 118,
+    "position": 5.286394706291391,
+    "clusterSize": 151,
+    "clusterName": "Imp\u00f4t sur les grosses fortunes et patrimoines."
+  },
+  {
+    "clusterId": 119,
+    "position": 4.818071610448548,
+    "clusterSize": 379,
+    "clusterName": "Retour de l'imp\u00f4t sur la fortune."
+  },
+  {
+    "clusterId": 120,
+    "position": 10.471510827401392,
+    "clusterSize": 431,
+    "clusterName": "R\u00e9forme de la sant\u00e9 et de l'\u00e9ducation: coresponsabilit\u00e9 sociale."
+  },
+  {
+    "clusterId": 121,
+    "position": 6.988126742966101,
+    "clusterSize": 118,
+    "clusterName": "Fiscalit\u00e9 des riches et des grandes entreprises."
+  },
+  {
+    "clusterId": 122,
+    "position": 10.87570350510949,
+    "clusterSize": 137,
+    "clusterName": "Cr\u00e9ation de nouvelles tranches fiscales pour les plus ais\u00e9s."
+  },
+  {
+    "clusterId": 123,
+    "position": 11.567957313570412,
+    "clusterSize": 1406,
+    "clusterName": "Obliger les riches \u00e0 plus participer au financement de la soci\u00e9t\u00e9."
+  },
+  {
+    "clusterId": 124,
+    "position": 13.473120734066669,
+    "clusterSize": 150,
+    "clusterName": "Personnalisation de l'imp\u00f4t sur le revenu."
+  },
+  {
+    "clusterId": 125,
+    "position": 11.629349422814371,
+    "clusterSize": 167,
+    "clusterName": "Reduire le co\u00fbt de l'\u00c9tat et de ses repr\u00e9sentants."
+  },
+  {
+    "clusterId": 126,
+    "position": 7.592609629894118,
+    "clusterSize": 850,
+    "clusterName": "Lutter contre les paradis fiscaux et la fraude fiscale."
+  },
+  {
+    "clusterId": 127,
+    "position": 15.259324673439906,
+    "clusterSize": 2596,
+    "clusterName": "R\u00e9forme des retraites: indexation, stabilit\u00e9, \u00e9galit\u00e9."
+  },
+  {
+    "clusterId": 128,
+    "position": 7.61574780248731,
+    "clusterSize": 197,
+    "clusterName": "R\u00e9forme fiscale des sportifs et des patrons."
+  },
+  {
+    "clusterId": 129,
+    "position": 9.28409805656321,
+    "clusterSize": 1321,
+    "clusterName": "Limiter l'optimisation fiscale."
+  },
+  {
+    "clusterId": 130,
+    "position": 11.338073883490566,
+    "clusterSize": 106,
+    "clusterName": "Lutter contre la fraude sociale et les abus."
+  },
+  {
+    "clusterId": 131,
+    "position": 8.591063048375,
+    "clusterSize": 160,
+    "clusterName": "Lutter contre la fraude fiscale et sociale."
+  },
+  {
+    "clusterId": 132,
+    "position": 8.843169387969231,
+    "clusterSize": 1625,
+    "clusterName": "Lutter contre la fraude fiscale"
+  },
+  {
+    "clusterId": 133,
+    "position": 9.536409355697677,
+    "clusterSize": 258,
+    "clusterName": "Renforcement des contr\u00f4les sociaux et fiscaux."
+  },
+  {
+    "clusterId": 134,
+    "position": 9.740137473426572,
+    "clusterSize": 143,
+    "clusterName": "l'imp\u00f4t doit \u00eatre pens\u00e9 en lien avec l'\u00e9conomie"
+  },
+  {
+    "clusterId": 135,
+    "position": 13.51514937484375,
+    "clusterSize": 192,
+    "clusterName": "R\u00e9forme de la protection sociale et non-imposition des mutuelles."
+  },
+  {
+    "clusterId": 136,
+    "position": 13.529549306746478,
+    "clusterSize": 710,
+    "clusterName": "Conditionner l'all\u00e9gement des taxes patronales au SMIC."
+  },
+  {
+    "clusterId": 137,
+    "position": 9.445738317671957,
+    "clusterSize": 189,
+    "clusterName": "Supprimer les subventions aux entreprises polluantes et les conditionner."
+  },
+  {
+    "clusterId": 138,
+    "position": 9.106798437725857,
+    "clusterSize": 321,
+    "clusterName": "Favoriser les PME et start-ups."
+  },
+  {
+    "clusterId": 139,
+    "position": 9.2864619578125,
+    "clusterSize": 224,
+    "clusterName": "Comp\u00e9titivit\u00e9 fran\u00e7aise: lutter contre l'ob\u00e9sit\u00e9 et la distorsion de concurrence."
+  },
+  {
+    "clusterId": 140,
+    "position": 12.78813776118182,
+    "clusterSize": 110,
+    "clusterName": "Taxation des revenus int\u00e9grale."
+  },
+  {
+    "clusterId": 141,
+    "position": 8.148956207208121,
+    "clusterSize": 394,
+    "clusterName": "R\u00e9guler les grandes entreprises et les multinationales."
+  },
+  {
+    "clusterId": 142,
+    "position": 17.57757535344591,
+    "clusterSize": 3790,
+    "clusterName": "Lutter contre l'\u00e9vasion fiscale."
+  },
+  {
+    "clusterId": 143,
+    "position": 14.33589115878453,
+    "clusterSize": 181,
+    "clusterName": "Augmenter le SMIC."
+  },
+  {
+    "clusterId": 144,
+    "position": 9.540733984859813,
+    "clusterSize": 749,
+    "clusterName": "Imp\u00f4t pour les Fran\u00e7ais \u00e0 l'\u00e9tranger."
+  },
+  {
+    "clusterId": 145,
+    "position": 9.598094040832702,
+    "clusterSize": 1321,
+    "clusterName": "Imp\u00f4t sur tous les revenus en France."
+  },
+  {
+    "clusterId": 146,
+    "position": 11.5050035704,
+    "clusterSize": 125,
+    "clusterName": "R\u00e9duction du fardeau administratif."
+  },
+  {
+    "clusterId": 147,
+    "position": 11.96105871238938,
+    "clusterSize": 339,
+    "clusterName": "R\u00e9duction du nombre de fonctionnaires d'\u00c9tat."
+  },
+  {
+    "clusterId": 148,
+    "position": 12.75799491227252,
+    "clusterSize": 2165,
+    "clusterName": "R\u00e9duire les privil\u00e8ges des \u00e9lus et des hauts fonctionnaires."
+  },
+  {
+    "clusterId": 149,
+    "position": 14.521081575414634,
+    "clusterSize": 205,
+    "clusterName": "Imp\u00f4t minimum obligatoire pour tous."
+  },
+  {
+    "clusterId": 150,
+    "position": 13.204429771598171,
+    "clusterSize": 657,
+    "clusterName": "Imp\u00f4t sur le revenu pour tous, y compris les modestes."
+  },
+  {
+    "clusterId": 151,
+    "position": 11.336291650822783,
+    "clusterSize": 316,
+    "clusterName": "Imp\u00f4t progressif sur les riches."
+  },
+  {
+    "clusterId": 152,
+    "position": 10.996911829727273,
+    "clusterSize": 110,
+    "clusterName": "R\u00e9duction d'imp\u00f4ts pour les riches, critique."
+  },
+  {
+    "clusterId": 153,
+    "position": 11.119293631329244,
+    "clusterSize": 978,
+    "clusterName": "Imp\u00f4t sur les riches: plus de solidarit\u00e9 fiscale."
+  },
+  {
+    "clusterId": 154,
+    "position": 12.678425438207547,
+    "clusterSize": 106,
+    "clusterName": "Imp\u00f4t progressif sur les revenus."
+  },
+  {
+    "clusterId": 155,
+    "position": 11.95461902956044,
+    "clusterSize": 273,
+    "clusterName": "La solidarit\u00e9 entre les territoires."
+  },
+  {
+    "clusterId": 156,
+    "position": 11.231672444169329,
+    "clusterSize": 626,
+    "clusterName": "Renforcer l'emploi et r\u00e9former les indemnit\u00e9s ch\u00f4mage."
+  },
+  {
+    "clusterId": 157,
+    "position": 11.320431073294722,
+    "clusterSize": 777,
+    "clusterName": "Promouvoir le travail et r\u00e9duire les aides sociales pour les inactifs."
+  },
+  {
+    "clusterId": 158,
+    "position": 14.398127545016113,
+    "clusterSize": 931,
+    "clusterName": "Limiter les salaires des patrons et r\u00e9duire les \u00e9carts de r\u00e9mun\u00e9ration."
+  },
+  {
+    "clusterId": 159,
+    "position": 11.758314585828572,
+    "clusterSize": 175,
+    "clusterName": "Suppression de l'imp\u00f4t sur le revenu."
+  },
+  {
+    "clusterId": 160,
+    "position": 7.4068371673595506,
+    "clusterSize": 178,
+    "clusterName": "Obliger les grandes entreprises \u00e0 verser plus d'imp\u00f4t."
+  },
+  {
+    "clusterId": 161,
+    "position": 8.366126526162988,
+    "clusterSize": 589,
+    "clusterName": "All\u00e8gements fiscaux pour les PME et TPE."
+  },
+  {
+    "clusterId": 162,
+    "position": 7.750378925594406,
+    "clusterSize": 3003,
+    "clusterName": "R\u00e9former la fiscalit\u00e9 des entreprises en France."
+  },
+  {
+    "clusterId": 163,
+    "position": 11.246923353526316,
+    "clusterSize": 380,
+    "clusterName": "Vers une fiscalit\u00e9 plus directe."
+  },
+  {
+    "clusterId": 164,
+    "position": 12.07010496476744,
+    "clusterSize": 172,
+    "clusterName": "Imposer tous les citoyens."
+  },
+  {
+    "clusterId": 165,
+    "position": 7.611377703643512,
+    "clusterSize": 763,
+    "clusterName": "Arr\u00eat du remboursement de la dette et sensibilisation des banques sur les frais d'agios."
+  },
+  {
+    "clusterId": 166,
+    "position": 11.164892539517544,
+    "clusterSize": 228,
+    "clusterName": "Adaptation individuelle en fonction des besoins."
+  },
+  {
+    "clusterId": 167,
+    "position": 11.586908340209284,
+    "clusterSize": 2628,
+    "clusterName": "L'appel \u00e0 la participation citoyenne de 5%."
+  },
+  {
+    "clusterId": 168,
+    "position": 10.257650648910891,
+    "clusterSize": 101,
+    "clusterName": "Justice territoriale: r\u00e9-\u00e9quilibrer les territoires."
+  },
+  {
+    "clusterId": 169,
+    "position": 9.918543696819672,
+    "clusterSize": 305,
+    "clusterName": "R\u00e9forme territoriale: plus de solidarit\u00e9 financi\u00e8re, moins d'administrations."
+  },
+  {
+    "clusterId": 170,
+    "position": 11.218347621320754,
+    "clusterSize": 106,
+    "clusterName": "Exemplarit\u00e9 des dirigeants."
+  },
+  {
+    "clusterId": 171,
+    "position": 9.161182685027624,
+    "clusterSize": 362,
+    "clusterName": "Renforcement des contr\u00f4les."
+  },
+  {
+    "clusterId": 172,
+    "position": 12.749813211805556,
+    "clusterSize": 504,
+    "clusterName": "\u00c9galit\u00e9 fiscale: la r\u00e9forme de l'imp\u00f4t pour une soci\u00e9t\u00e9 plus juste."
+  },
+  {
+    "clusterId": 173,
+    "position": 7.4126417602762436,
+    "clusterSize": 181,
+    "clusterName": "D\u00e9materialisation des paiements et limite de l'argent liquide."
+  },
+  {
+    "clusterId": 174,
+    "position": 8.15758629675,
+    "clusterSize": 240,
+    "clusterName": "Principe de ponction sur chaque flux d'argent."
+  },
+  {
+    "clusterId": 175,
+    "position": 12.599100900435966,
+    "clusterSize": 367,
+    "clusterName": "R\u00e9partition plus \u00e9quitable de l'imp\u00f4t."
+  },
+  {
+    "clusterId": 176,
+    "position": 9.515324406852889,
+    "clusterSize": 537,
+    "clusterName": "Participation des citoyens aux financements publics."
+  },
+  {
+    "clusterId": 177,
+    "position": 13.567159618057554,
+    "clusterSize": 139,
+    "clusterName": "Imp\u00f4t selon les moyens."
+  },
+  {
+    "clusterId": 178,
+    "position": 10.05444736194332,
+    "clusterSize": 494,
+    "clusterName": "R\u00e9forme des administrations pour un service public efficace."
+  },
+  {
+    "clusterId": 179,
+    "position": 9.793410268069309,
+    "clusterSize": 202,
+    "clusterName": "R\u00e9duire le mille-feuille administratif et \u00e9viter les doublons."
+  },
+  {
+    "clusterId": 180,
+    "position": 7.988379031191336,
+    "clusterSize": 277,
+    "clusterName": "Pr\u00e9venir le gaspillage d'argent public."
+  },
+  {
+    "clusterId": 181,
+    "position": 8.867502497100945,
+    "clusterSize": 2011,
+    "clusterName": "R\u00e9duire les d\u00e9penses publiques et am\u00e9liorer leur efficacit\u00e9."
+  },
+  {
+    "clusterId": 182,
+    "position": 10.923493500966185,
+    "clusterSize": 207,
+    "clusterName": "Abord des probl\u00e8mes sans r\u00e9ponse obligatoire."
+  },
+  {
+    "clusterId": 183,
+    "position": 11.1143424494702,
+    "clusterSize": 151,
+    "clusterName": "Vers la normalit\u00e9 sans exceptions."
+  },
+  {
+    "clusterId": 184,
+    "position": 12.215266953815028,
+    "clusterSize": 173,
+    "clusterName": "R\u00e9former l'imp\u00f4t sur le revenu."
+  },
+  {
+    "clusterId": 185,
+    "position": 11.341192336810344,
+    "clusterSize": 116,
+    "clusterName": "Suppression d'abattements injustifi\u00e9s et d\u00e9suets."
+  },
+  {
+    "clusterId": 186,
+    "position": 13.660358451279622,
+    "clusterSize": 422,
+    "clusterName": "Un seul imp\u00f4t progressif sur tous les revenus."
+  },
+  {
+    "clusterId": 187,
+    "position": 11.35240838061776,
+    "clusterSize": 259,
+    "clusterName": "Optimiser la fiscalit\u00e9."
+  },
+  {
+    "clusterId": 188,
+    "position": 11.63719351553623,
+    "clusterSize": 690,
+    "clusterName": "Grande r\u00e9forme fiscale."
+  },
+  {
+    "clusterId": 189,
+    "position": 10.623340195145229,
+    "clusterSize": 241,
+    "clusterName": "R\u00e9initialiser le syst\u00e8me."
+  },
+  {
+    "clusterId": 190,
+    "position": 11.326876430252977,
+    "clusterSize": 672,
+    "clusterName": "Limiter les exon\u00e9rations fiscales."
+  },
+  {
+    "clusterId": 191,
+    "position": 10.897751505898023,
+    "clusterSize": 2177,
+    "clusterName": "R\u00e9duire les imp\u00f4ts et les taxes."
+  },
+  {
+    "clusterId": 192,
+    "position": 11.25614973445283,
+    "clusterSize": 2915,
+    "clusterName": "Simplifier et \u00e9quilibrer la fiscalit\u00e9."
+  },
+  {
+    "clusterId": 193,
+    "position": 11.861287307518518,
+    "clusterSize": 270,
+    "clusterName": "Choisir l'usage des imp\u00f4ts en France."
+  },
+  {
+    "clusterId": 194,
+    "position": 14.077399331807092,
+    "clusterSize": 2623,
+    "clusterName": "Imp\u00f4t pour tous."
+  },
+  {
+    "clusterId": 195,
+    "position": 10.07471597073684,
+    "clusterSize": 190,
+    "clusterName": "Efficacit\u00e9 gouvernementale : mesure et contr\u00f4le r\u00e9guliers."
+  },
+  {
+    "clusterId": 196,
+    "position": 10.255288705759684,
+    "clusterSize": 1007,
+    "clusterName": "Simplification et clarification des r\u00e8gles et de l'information."
+  },
+  {
+    "clusterId": 197,
+    "position": 10.773889089569378,
+    "clusterSize": 209,
+    "clusterName": "Un syst\u00e8me l\u00e9gislatif efficace et adaptable."
+  },
+  {
+    "clusterId": 198,
+    "position": 13.363869750588234,
+    "clusterSize": 340,
+    "clusterName": "Imp\u00f4t proportionnel: rendre l'imposition plus \u00e9quitable."
+  },
+  {
+    "clusterId": 199,
+    "position": 12.99461454352581,
+    "clusterSize": 1143,
+    "clusterName": "Imp\u00f4t proportionnel aux revenus."
+  },
+  {
+    "clusterId": 200,
+    "position": 14.24839182283721,
+    "clusterSize": 645,
+    "clusterName": "Imp\u00f4t direct pour tous selon les revenus."
+  },
+  {
+    "clusterId": 201,
+    "position": 13.418368635160531,
+    "clusterSize": 2554,
+    "clusterName": "Imp\u00f4t sur le revenu g\u00e9n\u00e9ralis\u00e9."
+  },
+  {
+    "clusterId": 202,
+    "position": 12.119331528695652,
+    "clusterSize": 667,
+    "clusterName": "Payer les imp\u00f4ts."
+  }
+]
