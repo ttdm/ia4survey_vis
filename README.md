@@ -51,8 +51,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### `npm run deploy` 
+### [additional command] `npm run deploy` 
 
-Which deploy the React app to GitHub Pages. The homepage is specified in package.json l3. It pushes the deploy repo into the gh-pages branch on github.   
+Which deploy the React app to GitHub Pages. The homepage is specified in package.json l3. (It build the project locally and pushes the deploy repo into the gh-pages branch on github.)   
 
 More informations on react app an [here](https://github.com/gitname/react-gh-pages).
