@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ia4survey_vis/static/css/main.e0372000.css",
+    "main.js": "/ia4survey_vis/static/js/main.9aca22ea.js",
+    "static/js/453.60e27814.chunk.js": "/ia4survey_vis/static/js/453.60e27814.chunk.js",
+    "index.html": "/ia4survey_vis/index.html",
+    "main.e0372000.css.map": "/ia4survey_vis/static/css/main.e0372000.css.map",
+    "main.9aca22ea.js.map": "/ia4survey_vis/static/js/main.9aca22ea.js.map",
+    "453.60e27814.chunk.js.map": "/ia4survey_vis/static/js/453.60e27814.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0372000.css",
+    "static/js/main.9aca22ea.js"
+  ]
+}
